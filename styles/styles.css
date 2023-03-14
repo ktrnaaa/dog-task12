@@ -1,0 +1,21 @@
+.elFrame{
+    width: 800px;
+    height: 800px;
+    background-color: antiquewhite;
+    position: relative;
+}
+.elDog{
+    background-image: url(../img/5845e69dfb0b0755fa99d7ef.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    top: 350px;
+    left: 350px;
+    
+}
+body{
+    margin: 0%;
+}
